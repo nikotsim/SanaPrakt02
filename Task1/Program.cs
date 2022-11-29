@@ -2,6 +2,5 @@
 Console.WriteLine("Row row row");
 Console.WriteLine("Your boat");
 Console.WriteLine("Gently down the stream");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Merrily merrily, merrily, merrily");
+Console.WriteLine("Life is but a dream");
